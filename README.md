@@ -1,5 +1,5 @@
 # TesT
 Testing this thing.
-wow
-second wow
+Wow.
+Second wow.
 The history might as long as the edits?
